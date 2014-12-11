@@ -32,5 +32,9 @@
 
     响马老师推荐的移动框架，对 IOS 和 Android 支持都不错，我们这个项目，最后是一定要在移动
     设备上支持的，以此提高我们的开发效率。
-    
-    
+
+
+#我们还要知道什么呢？
+
+1. [MarkDown 语法](http://equation85.github.io/blog/markdown-examples/)
+2. [为现代JavaScript开发做好准备](http://blog.jobbole.com/66135/)
