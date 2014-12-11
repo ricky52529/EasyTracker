@@ -12,3 +12,25 @@
     前  端：Angular、Bootstrap
     自动化：Yeoman
     数据库：MongoDB
+    移动端：Titanium Mobile
+
+> fibjs & MongoDB
+    
+    由中国互联网泰斗级人物响马老师开发并开源，我们可以用来做服务器的后端，存储数据，供后端调用。
+    fibjs 内置 MongoDB 驱动，可以很方便的进行数据库操作。
+    
+> Yeoman
+
+    首先自己通过 Yeoman 关键词，去搜索相关学习资料，看官网例程，在本机搭建 Yeoman环境。
+    
+> Angular & Bootstrap
+
+    我们工作中，需要使用 Angular 和 angular-bootstrap，来完成前端整体的开发，这是必须技能，
+    请小伙伴们自行查阅资料，为了检验自学能力。
+    
+> Titanium Mobile
+
+    响马老师推荐的移动框架，对 IOS 和 Android 支持都不错，我们这个项目，最后是一定要在移动
+    设备上支持的，以此提高我们的开发效率。
+    
+    
