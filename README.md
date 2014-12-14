@@ -40,6 +40,7 @@
 2. [MarkDown 语法](http://equation85.github.io/blog/markdown-examples/)
 3. [为现代JavaScript开发做好准备](http://blog.jobbole.com/66135/)
 4. [Grunt-beginner前端自动化工具](http://www.imooc.com/view/30)
+5. [CNPM - NPM 替代](http://cnpmjs.org/)
 
 ##资料
 
