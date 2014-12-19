@@ -42,6 +42,7 @@
 4. [Grunt-beginner前端自动化工具](http://www.imooc.com/view/30)
 5. [CNPM - NPM 替代](http://npm.taobao.org/)
 6. [WebStorm - 前端开发最好的IDE](http://pan.baidu.com/s/1ntupdHn) 密码: v5ag
+7. [Grunt 进阶](http://javascript.ruanyifeng.com/tool/grunt.html)
 
 ##资料
 
